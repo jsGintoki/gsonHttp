@@ -1,2 +1,2 @@
 # gsonHttp
-it's a httpclient with son parsers
+it's a httpclient with json parsers
