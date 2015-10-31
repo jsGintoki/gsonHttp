@@ -7,7 +7,7 @@ http://www.cnblogs.com/tiantianbyconan/p/4388175.html
 
 sonatype project url:
 
-https://issues.sonatype.org/browse/OSSRH-18575
+https://issues.sonatype.org/browse/OSSRH-18553
 
 
 Maven(创建私有仓库和设置权限) 
