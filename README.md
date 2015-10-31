@@ -5,9 +5,14 @@ it's a httpclient with json parsers
 
 http://www.cnblogs.com/tiantianbyconan/p/4388175.html 
 
-sonatype project url:
+when u finished a release,u can find your group name here:
+
+https://oss.sonatype.org/content/groups/public/com/github/
+
+my sonatype project url:
 
 https://issues.sonatype.org/browse/OSSRH-18553
+
 
 
 Maven(创建私有仓库和设置权限) 
